@@ -1,7 +1,7 @@
 # Hi there, I'm Han Nguyen! 👋
 
 - 👀 I’m interested in Software Engineering, Cybersecurity, and System Programming.
-- 🌱 I’m currently learning C/C++, algorithms, data structures, Unix system programming, web development, and ethical hacking. I’m pursuing a fast-track master program in Software Engineering and Cybersecurity, aiming to teach at the university level someday. 
+- 🌱 I’m currently learning C/C++, assembly, Rust, Python, data structures/algorithm, Unix system programming, web development, and ethical hacking. I’m pursuing a fast-track master program in Software Engineering and Cybersecurity, aiming to teach at the university level someday. 
 - 💼 I’m the Head Coach at Amzshifu Academy and co-founder of Trancao Ventures LLC, where I lead innovation in digital voice recorders and consult Amazon sellers.
 - 💞️ I’m looking to collaborate on projects related to AI, cybersecurity, systems programming, and tools to improve developer efficiency.
 - 📫 How to reach me: [Email](mailto:hannguyen.win@gmail.com) | [Linkedin]([https://github.com/han-nwin](https://www.linkedin.com/in/tan-han-nguyen/))
