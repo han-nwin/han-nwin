@@ -1,5 +1,6 @@
-### Hi there 👋
-404: Sleep not found.
+### > Welcome, fellow debugger 👋
+**System Status: Running on caffeine.**  
+404: Sleep not found.  
 - 📫 [Email](mailto:hannguyen.win@gmail.com) | [Linkedin](https://www.linkedin.com/in/tan-han-nguyen/)
 
 [![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=han-nwin&show_icons=true&theme=catppuccin_mocha)](https://github.com/han-nwin/github-readme-stats)
